@@ -1,4 +1,6 @@
 🎟️ Event Booking Application
+
+
 📖 Description
 Event Booking Application is a web-based platform that allows users to view, book, and manage events. The platform provides a simple and intuitive interface for users to explore upcoming events, register, and manage their bookings. It also includes a powerful admin panel for managing events and users.
 
