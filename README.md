@@ -1,4 +1,4 @@
-Event Booking Application
+#Event Booking Application
 This is a web application that allows users to view, book, and manage events. The platform is designed for users to easily browse upcoming events, register for them, and keep track of their bookings. It includes user authentication, an admin panel to manage events, and a user-friendly interface.
 
 Features
